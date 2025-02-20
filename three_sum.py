@@ -1,4 +1,4 @@
-def three_sum(lst, target):
+def three_sum(lst: list, target):
     """
     Trouve trois indices d'éléments dans lst qui additionnés donnent target.
     Retourne une liste avec les trois indices ou None si pas trouvé.
