@@ -4,6 +4,7 @@ def three_sum(lst, target):
     Retourne une liste avec les trois indices ou None si pas trouvé.
     """
     # 💡 Implémente ta solution ici !
+
     pass  # Remplace "pass" par ton code
 
 # 🔍 Tests automatiques
